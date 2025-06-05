@@ -1,1 +1,1 @@
-# cluster
+# Code for cluster analysis
